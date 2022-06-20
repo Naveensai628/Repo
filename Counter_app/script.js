@@ -14,3 +14,5 @@ sub.addEventListener("click", () => {
 resetCount.addEventListener("click", () => {
     count.innerHTML=0;
 });
+
+

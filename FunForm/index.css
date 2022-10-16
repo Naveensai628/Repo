@@ -1,0 +1,39 @@
+* {
+  background-color: rgb(234, 242, 163);
+}
+
+h1, form {
+    text-align:  center;
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+  
+  input {
+    padding: 7px;
+    border-radius: 5px;
+  }
+  
+  #udiv,#pdiv {
+    padding: 10px;
+  }
+  
+  #sdiv {
+    padding-top: 15px;
+    width : 110%;
+  }
+  
+  .btn{
+    background-color: lightblue;
+    position: absolute;
+  } 
+
+  .chn{
+    background-color: rgb(191, 210, 93);
+    position: absolute;
+  } 
+
+  .btn:hover {
+   
+    left: 650px;
+    top: 150;
+
+  }  
